@@ -159,6 +159,13 @@ doh.gov.ph:  10.0.0.64/26
 broadcast: 
 not-doh.gov.ph: 10.0.0.128
 
+######################################################
+### JOB Interview L2 ###
+########################
+Q1: What is CIDR : Classless interdomail Routing:
+"What IP address will I order to get 45 IP address"
+Answer: "We will use /26 with .64 network address. and .65 first usable and .127 last usable ip
+
 TASK6: On-Premise   vs  CloudBased  vs Hybrid
 
 ccna Routing:today/day3 and Switching:d5
